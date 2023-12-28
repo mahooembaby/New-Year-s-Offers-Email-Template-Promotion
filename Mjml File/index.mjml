@@ -1,0 +1,80 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <!-- Start Banner Section -->
+    <mj-section background-color="#ff5874">
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/N31QFfY/logo.png" title="logo" alt="logo"></mj-image>
+        <mj-text align="center" font-size="90px" font-weight="500" text-transform="uppercase" color="#fff" padding-top="30px">sale</mj-text>
+        <mj-text align="center" font-size="35px" font-weight="300" text-transform="uppercase" color="#fff" padding-top="0px" padding-bottom="20px">of the year!</mj-text>
+        <mj-button href="#" background-color="#fff" color="#000" inner-padding="10px 15px" width="79%" font-size="16px" text-transform="uppercase" font-weight="500">friends & family</mj-button>
+        <mj-text align="center" font-size="30px" font-weight="300" text-transform="uppercase" color="#fff" padding-top="20px" padding-bottom="20px">take 45% OFF</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Feature Section -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="25px" letter-spacing="-1px" text-transform="capitalize" font-weight="700" color="#ff5874">cheers to a new year!</mj-text>
+        <mj-text align="center" font-size="30px" letter-spacing="-1px" text-transform="capitalize" font-weight="700" color="#ff5874" padding-top="0" padding-bottom="10px">unlock exclusive deals inside!</mj-text>
+        <mj-text align="center" font-size="14px" line-height="18px" text-transform="capitalize" padding-top="10px" padding-bottom="5px" color="#272727">as we bid farewell to the old and welcome the new, we want to celebrate the joy of fresh beginnings with you!</mj-text>
+        <mj-text align="center" font-size="14px" line-height="18px" text-transform="capitalize" color="#272727" padding-bottom="20px">to kick off the year on a high note, we're excited to bring you exclusive New Year's offers that you won't want to miss.</mj-text>
+        <mj-button href="#" inner-padding="10px 50px" font-size="16px" text-transform="uppercase" color="#000" border="2px solid #000" background-color="#fff" padding-bottom="30px" font-weight="500">shop now</mj-button>
+        <mj-image href="#" src="https://i.ibb.co/g6S8ttt/pic-1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Feature Section -->
+    <!-- Start Offer Pictures Section -->
+    <mj-section background-color="#ecf0f1">
+      <!-- First Pic Section One -->
+      <mj-column>
+        <mj-image href="#" padding-top="0" src="https://i.ibb.co/M88wBLr/pic-3.png"></mj-image>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize">luxury party shoes</mj-text>
+        <mj-text padding-top="0" align="center" font-size="15px" font-weight="600" text-transform="capitalize"><span style="color:#ff5874; text-decoration:line-through">$160.00</span> | $120.00 </mj-text>
+        <mj-button href="#" font-size="14px" text-transform="capitalize" inner-padding="10px 50px" padding-top="20px" background-color="#000">shop now</mj-button>
+      </mj-column>
+      <!-- Second Pic Section One -->
+      <mj-column>
+        <mj-image href="#" padding-top="0" src="https://i.ibb.co/NjCQg83/pic-4.png"></mj-image>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize">winter sweat shirt</mj-text>
+        <mj-text padding-top="0" align="center" font-size="15px" font-weight="600" text-transform="capitalize"><span style="color:#ff5874; text-decoration:line-through">$160.00</span> | $120.00</mj-text>
+        <mj-button href="#" font-size="14px" text-transform="capitalize" inner-padding="10px 50px" padding-top="20px" background-color="#000">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecf0f1" padding-top="0">
+      <!-- First Pic Section Two -->
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/LrYh2Tp/pic-5.png"></mj-image>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize">yellow cap</mj-text>
+        <mj-text padding-top="0" align="center" font-size="15px" font-weight="600" text-transform="capitalize"><span style="color:#ff5874; text-decoration:line-through">$160.00</span> | $120.00</mj-text>
+        <mj-button href="#" font-size="14px" text-transform="capitalize" inner-padding="10px 50px" padding-top="20px" background-color="#000">shop now</mj-button>
+      </mj-column>
+      <!-- Second Pic Section Two -->
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/HKVSKSQ/pic-2.png"></mj-image>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize">denim jeans</mj-text>
+        <mj-text padding-top="0" align="center" font-size="15px" font-weight="600" text-transform="capitalize"><span style="color:#ff5874; text-decoration:line-through">$160.00</span> | $120.00</mj-text>
+        <mj-button href="#" font-size="14px" text-transform="capitalize" inner-padding="10px 50px" padding-top="20px" background-color="#000">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Offer Pictures Section -->
+    <!-- Start Banner Section -->
+    <mj-section padding-top="30px" padding-bottom="30px" background-color="#fff">
+      <mj-column>
+        <mj-text color="#272727" padding-top="30px" padding-bottom="20px" align="center" font-size="15px" line-height="20px" font-weight="500">lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do elusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspend isse ultrices gravida dolore magna aliqua.</mj-text>
+        <mj-divider border-color="#000" border-width="1px" border-style="solid"></mj-divider>
+        <mj-text padding-top="10px" padding-bottom="10px" align="center" font-size="14px" line-height="20px" font-weight="500" text-transform="capitalize" color="#272727">men &nbsp; | &nbsp; women &nbsp;| &nbsp; accessories &nbsp; | &nbsp; sale</mj-text>
+        <mj-divider border-color="#000" border-width="1px" border-style="solid"></mj-divider>
+        <mj-text padding-top="30px" padding-bottom="20px" align="center" font-size="15px" line-height="20px" font-weight="500" color="#272727">lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do elusmod tempor incididunt ut labore et dolore magna aliqua.</mj-text>
+        <mj-text align="center" padding-bottom="50px">
+          <div>
+            <a href="#"><img style="width:30px; margin-right:5px;" src="https://i.ibb.co/QnxmFZX/facebook.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:5px;" src="https://i.ibb.co/GtW7d6K/linkedin.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:5px;" src="https://i.ibb.co/fqv1z3s/instagram.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:5px;" src="https://i.ibb.co/J5Nqc8g/x.png" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+  </mj-body>
+</mjml>
